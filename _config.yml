@@ -1,6 +1,6 @@
 name: ekayana
 favicon: null
-layout_spectrum: 0.32037189044058323
+layout_spectrum: 1
 typography_spectrum: 0.14363427832722664
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#756f4f'
     - '#429790'
     - '#cdda94'
-  brandStrength: 0.7547331247478724
+  brandStrength: 0.8125
   lightness: 0.8254635399207473
   saturation: 0.1560913878493011
   rhythmicContrast: 0.38833231711760163
