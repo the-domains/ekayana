@@ -7,15 +7,15 @@ keywords: []
 description: >-
   John Shrader began his journey into spirituality learning through the art and
   practice of rock climbing from the age of 14.
-datePublished: '2016-06-28T14:40:13.021Z'
-dateModified: '2016-06-28T14:40:11.292Z'
+datePublished: '2016-07-11T19:22:09.295Z'
+dateModified: '2016-07-11T19:22:05.124Z'
 title: ''
 author: []
+sourcePath: >-
+  _posts/2016-06-28-john-shrader-began-his-journey-into-spirituality-learning-th.md
 authors: []
 publisher: null
 starred: false
-sourcePath: >-
-  _posts/2016-06-28-john-shrader-began-his-journey-into-spirituality-learning-th.md
 url: john-shrader-began-his-journey-into-spirituality-learning-th/index.html
 _type: Article
 
